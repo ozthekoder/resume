@@ -1,3 +1,4 @@
+/**/
 import webpack from 'webpack'
 import _debug from 'debug'
 import config from '../config'

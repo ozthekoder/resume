@@ -73,5 +73,5 @@ if (config.globals.__COVERAGE__) {
   }]
 }
 
-// cannot use `export default` because of Karma.
+//// cannot use `export default` because of Karma.
 module.exports = (cfg) => cfg.set(karmaConfig)
