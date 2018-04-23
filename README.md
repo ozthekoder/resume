@@ -1,7 +1,5 @@
 ## Osman Ozdemir
-+1(917)-916-3658 | oozdemir2704@gmail.com | 
-[Github](https://github.com/ozthekoder) |
-[LinkedIn](www.linkedin.com/in/osman-ozdemir-63021252)
++1(917)-916-3658 | oozdemir2704@gmail.com | [Github](https://github.com/ozthekoder) | [LinkedIn](www.linkedin.com/in/osman-ozdemir-63021252)
 
 ### Profile
 Senior Frontend/Full Stack Engineer with 5+ years of experience and a solid computer science background. 
@@ -18,7 +16,7 @@ LAMP and MEAN stacks and their variations.
 | Programming Languages   |Javascript (Expert), C++ (Fluent), Java (Fluent), Python (Proficient), Rust (Proficient), PHP (Proficient)|
 | Markup Languages |HTML, SVG, XML|
 | Frontend | React, Angular, Redux, Flux, GraphQL|
-| Backend | Node (Express, Koa, Hapi), Python (Flask, SQLAlchemy), Apache, Nginx, Strongloop / Loopback, Rust (Rocket, Reqwest, Hyper) |
+| Backend | Node (Express, Koa, Hapi), Python (Flask, SQLAlchemy), Apache, Nginx, Strongloop-Loopback, Rust (Rocket, Reqwest, Hyper) |
 | Testing | Karma, Jasmine, Mocha, Chai, Sinon, Enzyme, Jest, Webdriver.io, Chimp, Selenium, Behave, Gherkin |
 | Styling   |	CSS3, LESS, SASS, Compass, Aphrodite, JSS, Styled-Components |
 | Template Engines | Underscore, Handlebars, Spacebars, Twig, Jade |
