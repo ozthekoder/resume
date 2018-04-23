@@ -8,26 +8,39 @@ Senior Frontend/Full Stack Engineer with 5+ years of experience and a solid comp
 I enjoy building
 fast, reliable and scalable web applications that are built with bleeding edge technology, using appropriate design
 patterns and best practices.
+I am a big fan of [Uncle Bob](https://en.wikipedia.org/wiki/Robert_C._Martin) and his software development and agile methodologies.
 Although started out as a frontend engineer, I have a good understanding of both
 LAMP and MEAN stacks and their variations.
 
 ### Proficiency
 |Type|Skills|
 | ------ | ----------- |
-| Programming Languages   |Javascript (Expert), C++ (Fluent), Java (Proficient), PHP (Proficient)|
+| Programming Languages   |Javascript (Expert), C++ (Fluent), Java (Fluent), Python (Proficient), Rust (Proficient), PHP (Proficient)|
 | Markup Languages |HTML, SVG, XML|
-| Frontend | React, Redux, Angular, Backbone, Marionette, Require.js, jQuery |
-| Backend | Node, Express, Koa, Hapi, Apache, Nginx, Strongloop / Loopback |
-| Testing | Karma, Jasmine, Mocha, Chai, Sinon, Enzyme, Jest, Webdriver.io, Chimp, Selenium |
-| Styling   |	CSS3, LESS, SASS, Compass |
-| Template Engines   | Underscore, Handlebars, Spacebars, Twig, Jade |
+| Frontend | React, Angular, Redux, Flux, GraphQL|
+| Backend | Node (Express, Koa, Hapi), Python (Flask, SQLAlchemy), Apache, Nginx, Strongloop / Loopback, Rust (Rocket, Reqwest, Hyper) |
+| Testing | Karma, Jasmine, Mocha, Chai, Sinon, Enzyme, Jest, Webdriver.io, Chimp, Selenium, Behave, Gherkin |
+| Styling   |	CSS3, LESS, SASS, Compass, Aphrodite, JSS, Styled-Components |
+| Template Engines | Underscore, Handlebars, Spacebars, Twig, Jade |
 | Databases |MySQL (fluent), MongoDB (fluent), PostgreSQL (fluent), Couchbase (prior experience), Cassandra (prior experience), Titan (prior experience)|
 | Operating Systems | Windows, MacOS, Linux |
-| Agile & Issue Tracking   |JIRA, TFS, Github, GitLab, Rally, Trello|
-| Version Control & Code Reviews|Git, Git Flow, Github Flow, Gitlab, Stash, Bitbucket, SVN|
+| Agile & Issue Tracking| JIRA, TFS, Github, GitLab, Rally, Trello, Phabricator|
+| Version Control & Code Reviews|Git, Git Flow, Github Flow, Gitlab, Stash, Bitbucket, SVN, Arcanist|
 | Other Gems |Webpack, Browserify, Yo, Gulp, Grunt, Jenkins, Docker, Vagrant, Vim, Tmux|
 
 ### Relevant Experience
+
+#### Shopspring <div style="text-align: right; font-weight: normal; position: absolute; top: 0; right: 0; font-size: 14px">September 2015 – September 2017</div>
+-
+* Within my first week of employment, I setup my local environment and updated engineering onboarding wiki which was out of date. By the first weekend, I had already started pushing code to production, fixing bugs related to frontend
+* Identified the major hiccups in development workflow, proposed solutions for linting, testing, and continuous integration
+* Implemented Prettier as a linting solution, added commit hooks that runs only on the changed files which reduced the time it takes to lint and commit code for any Javascript related work by a margin of 15-20%
+* Implemented integrations for analytics and ab testing libraries Optimizely-x, Amplitude, and Segment. This involved work on both our Javascript codebase for frontend and Python - Golang codebase for backend
+* Implemented a personalization solution for customers to save their measurements and refined our search queries to return only the sizes the customer is looking for as a default
+* Made proposals for renewing our frontend stack. Switching from a React - Flux/Redux setup to a React - GraphQL solution
+* Switched the unit testing technology used for Javascript from Mocha/Chai to Jest. Added pre-commit hooks to make sure added code meets the standarts for test coverage
+* Improved the page load performance by a margin of 40% by implementing optimizations for images, ES6 dynamic imports coupled with webpack code-splitting at component level. Also reduced the javascript compilation and execution overhead by using Web Workers to run Redux state changes and React tree diffing algorithms in a parrallel fashion. 
+
 #### Lifion by ADP <div style="text-align: right; font-weight: normal; position: absolute; top: 0; right: 0; font-size: 14px">September 2015 – September 2017</div>
 -
 * Worked on breaking down and migrating a large monolith codebase into micro services
