@@ -7,28 +7,36 @@ I enjoy building
 fast, reliable and scalable web applications that are built with bleeding edge technology, using appropriate design
 patterns and best practices.
 I am a big fan of [Uncle Bob](https://en.wikipedia.org/wiki/Robert_C._Martin) and his software development and agile methodologies.
-Although started out as a frontend engineer, I have a good understanding of both
-LAMP and MEAN stacks and their variations.
+Although started out as a frontend engineer, I have good understanding of web development overall can easily juggle both ends of the stack.
 
 ### Proficiency
 |Type|Skills|
 | ------ | ----------- |
-| Programming Languages   |Javascript (Expert), C++ (Fluent), Java (Fluent), Python (Proficient), Rust (Proficient), PHP (Proficient)|
+| Programming Languages   |Javascript/Node.js (Expert), Typescript (Fluent), C++ (Fluent), Java (Fluent), Python (Fluent), Rust (Proficient), PHP (Proficient)|
 | Markup Languages |HTML, SVG, XML|
-| Frontend | React, Angular, Redux, Flux, GraphQL|
+| Frontend | ReactJS, AngularJS, Redux, GraphQL, VueJS|
 | Backend | Node (Express, Koa, Hapi), Python (Flask, SQLAlchemy), Apache, Nginx, Strongloop / Loopback, Rust (Rocket, Reqwest, Hyper) |
-| Testing | Karma, Jasmine, Mocha, Chai, Sinon, Enzyme, Jest, Webdriver.io, Chimp, Selenium, Behave, Gherkin |
-| Styling   |	CSS3, LESS, SASS, Compass, Aphrodite, JSS, Styled-Components |
+| Testing | Cypress, Karma, Jasmine, Mocha, Chai, Sinon, Enzyme, Jest, Webdriver.io, Chimp, Selenium, Behave, Gherkin |
+| Styling   |	CSS3, LESS, SASS, PCSS, Compass, Aphrodite, JSS, Styled-Components, Emotion |
 | Template Engines | Underscore, Handlebars, Spacebars, Twig, Jade |
 | Databases |MySQL (fluent), MongoDB (fluent), PostgreSQL (fluent), Couchbase (prior experience), Cassandra (prior experience), Titan (prior experience)|
 | Operating Systems | Windows, MacOS, Linux |
 | Agile & Issue Tracking| JIRA, TFS, Github, GitLab, Rally, Trello, Phabricator|
-| Version Control & Code Reviews|Git, Git Flow, Github Flow, Gitlab, Stash, Bitbucket, SVN, Arcanist|
+| Version Control & Code Reviews|Git, Git Flow, Github Flow, Gitlab, Stash, Bitbucket, SVN, Arcanist, Gerrit|
 | Other Gems |Webpack, Browserify, Yo, Gulp, Grunt, Jenkins, Docker, Vagrant, Vim, Tmux|
  
 ### Relevant Experience
 
-#### Shopspring <div style="position: relative;bottom:30px;"><div style="text-align: right; font-weight: normal; position: absolute; top: 0; right: 0; font-size: 16px">September 2017 - Present</div></div>
+#### Urban Compass <div style="position: relative;bottom:30px;"><div style="text-align: right; font-weight: normal; position: absolute; top: 0; right: 0; font-size: 16px">October 2018 - Present</div></div>
+
+* Converted AngularJS components to React components and hooked them up to an AngularJS codebase piece by piece.
+* Created new features (UI Components) using AngularJS and ReactJS.
+* Coded functional tests using Cypress which significantly reduced the bugs that make it to production.
+* Mentored new hires.
+* Imlemented unit tests for certain API endpoints using Golang, increased coverage from 0 to 70%.
+* After successfully predicting user behavior, I started to get involved with the design stage of the UI components, collaborating with our designers, helping them with creating an easy UX flow that the average user can interact with without thinking too hard.
+
+#### Shopspring <div style="position: relative;bottom:30px;"><div style="text-align: right; font-weight: normal; position: absolute; top: 0; right: 0; font-size: 16px">September 2017 - October 2018</div></div>
 
 * Within my first week of employment, I setup my local environment and updated engineering onboarding wiki which was out of date. By the first weekend, I had already started pushing code to production, fixing bugs related to frontend
 * Identified the major hiccups in development workflow, proposed solutions for linting, testing, and continuous integration
